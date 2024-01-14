@@ -7,9 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayankhan404&label=Profile%20views&color=0e75b6&style=flat" alt="ayankhan404" /> </p>
 
-- 🔭 I’m currently working on **DATA ANALYSIS**
-
-- 🌱 I’m currently learning **DATA ANALYSIS AND DATA SCIENCE OR AI/ML,FULL STACK DEVELOPMENT ,WEBAPP DEVELOPMENT,GOOGLE CLOUD OR AWS ETC..**
+- 🌱 I’m currently learning **DATA ANALYSIS AND DATA SCIENCE OR AI/ML,FULL STACK DEVELOPMENT ,WEBAPP DEVELOPMENT, GOOGLE CLOUD OR AWS ETC..**
 
 - 👨‍💻 FIND ME [https://linktr.ee/TheAyankhan404](https://linktr.ee/TheAyankhan404)
 
