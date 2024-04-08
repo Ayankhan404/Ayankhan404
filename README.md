@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm AYAN KHAN</h1>
-<h3 align="center">I AM DATA SCIENCE OR AI/ML AND DATA ANALYST INTERN AT IBM</h3>
+<h3 align="center"> Full stack intern @Infosys
+     Ex-@Ey Data Science intern, Ex - @IBM Data Analyst intern</h3>
 <img Align="right" width=400 
      src="https://wallpapercave.com/wp/wp7471881.jpg"
      alt="photo">
@@ -7,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayankhan404&label=Profile%20views&color=0e75b6&style=flat" alt="ayankhan404" /> </p>
 
-- 🌱 I’m currently learning **DATA ANALYSIS AND DATA SCIENCE OR AI/ML,FULL STACK DEVELOPMENT ,WEBAPP DEVELOPMENT, GOOGLE CLOUD OR AWS ETC..**
+- 🌱 I’m currently learning **DATA ANALYSIS AND DATA SCIENCE OR AI/ML DEEP LEARNING, FULL STACK DEVELOPMENT ,WEBAPP DEVELOPMENT, GOOGLE CLOUD OR AWS ETC..**
 
-- 👨‍💻 FIND ME [https://linktr.ee/TheAyankhan404](https://linktr.ee/TheAyankhan404)
+- 👨‍💻 FIND ME: [https://linktr.ee/TheAyankhan404](https://linktr.ee/TheAyankhan404)
 
 - 📫 How to reach me **0310AYANKHAN@GMAIL.COM**
 
